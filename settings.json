@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Joginder",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "aeroblazesmp12.mcsh.gg",
     "port": 25565,
     "version": "",
     "try-creative": false
